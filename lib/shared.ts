@@ -117,7 +117,7 @@ export const linkedinUrl = env(
 
 export const gitConfig = {
   user: process.env.NEXT_PUBLIC_GIT_USER || 'mypulseapi',
-  repo: process.env.NEXT_PUBLIC_GIT_REPO || 'handbook',
+  repo: process.env.NEXT_PUBLIC_GIT_REPO || 'owl',
   branch: process.env.NEXT_PUBLIC_GIT_BRANCH || 'main',
 };
 

@@ -4,8 +4,8 @@ Anyone can suggest a change. Nobody, maintainers included, pushes to `develop` o
 
 ## Ways to contribute
 
-- **Report a problem.** Use one of the [issue forms](https://github.com/mypulseapi/handbook/issues/new/choose): something wrong or out of date, a missing topic, or a problem with the site itself.
-- **Ask a question.** Use [Discussions](https://github.com/mypulseapi/handbook/discussions), not issues.
+- **Report a problem.** Use one of the [issue forms](https://github.com/mypulseapi/owl/issues/new/choose): something wrong or out of date, a missing topic, or a problem with the site itself.
+- **Ask a question.** Use [Discussions](https://github.com/mypulseapi/owl/discussions), not issues.
 - **Fix it yourself.** Small fixes (typos, broken links, outdated facts) don't need an issue first. Larger changes or new pages should start with an issue, so the scope is agreed before you write.
 
 ## Branches

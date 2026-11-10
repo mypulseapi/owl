@@ -7,7 +7,7 @@ body:
     id: url
     attributes:
       label: URL
-      placeholder: https://mypulseapi.github.io/handbook/...
+      placeholder: https://mypulseapi.github.io/owl/...
     validations:
       required: true
   - type: textarea

@@ -12,7 +12,7 @@ body:
     attributes:
       label: Page
       description: Link to the page, or its path in the repository.
-      placeholder: https://mypulseapi.github.io/handbook/...
+      placeholder: https://mypulseapi.github.io/owl/...
     validations:
       required: true
   - type: textarea
