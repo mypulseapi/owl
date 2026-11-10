@@ -1,4 +1,4 @@
-# PULSE developer handbook
+# owl, the PULSE developer handbook
 
 The developer documentation for [`@thepulseapi/sdk`](https://www.npmjs.com/package/@thepulseapi/sdk)
 and the PULSE Decision API, published at
@@ -100,7 +100,7 @@ only becomes valid after the first deploy would fail it. Make it a link once the
 
 `public/CNAME` is what claims that domain on each deploy. GitHub Actions deployments do not
 remember a custom domain set only in the repository settings, so removing that file would send
-the site back to `mypulseapi.github.io/handbook` on the next push.
+the site back to `mypulseapi.github.io/owl` on the next push.
 
 The workflow was adapted from GitHub's Next.js starter, which detects only yarn and npm and falls
 back to `npm ci`. This repo uses pnpm, so pnpm is installed explicitly before `setup-node`,
